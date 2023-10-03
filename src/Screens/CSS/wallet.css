@@ -1,0 +1,14 @@
+/* * {
+  outline: 1px solid black;
+} */
+.walletInvestor {
+  width: 83%;
+  height: auto;
+  float: right;
+  display: grid;
+  place-items: center;
+}
+.walletInvestor .container {
+  width: 60%;
+  height: 82vh;
+}
